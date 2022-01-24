@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on `Personal Project  (web related)`
+- 🔭 I’m currently working on `Personal Project`
 - 🌱 I’m currently learning `Deep learning`
 - 👯 I’m looking to collaborate on `Open Source (web based)` 
-- 🤔 Seeking internship oppurtunities
+
 
 
 <h3> 🛠 &nbsp;Tech Stack</h3>
